@@ -1,7 +1,8 @@
-Todo List Homework FASTAPI
+Todo List Homework SQLite Forum Week 6 
 
 BY : SHAAN KISHORE GUNWANI - 2602176982 
 
 
-![Screenshot 2024-05-07 215655](https://github.com/ShaanGunwani/FastAPI_TodoList_Shaan/assets/114371881/042dc3e1-2a81-4782-bd11-07847e2e1099)
-![1715093540894](https://github.com/ShaanGunwani/FastAPI_TodoList_Shaan/assets/114371881/eff4aa9a-88e5-4dad-9ebc-80daa7f91f90)
+
+![Screenshot 2024-05-13 214033](https://github.com/ShaanGunwani/Shaan_SQLite_TodoList/assets/114371881/5119d2c9-4a4c-47df-9ce2-868978e9a523)
+![Screenshot 2024-05-13 214009](https://github.com/ShaanGunwani/Shaan_SQLite_TodoList/assets/114371881/75a14bdf-a18a-47c3-8629-d987998d9e9a)
